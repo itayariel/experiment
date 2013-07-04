@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\pre_level_stick.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="19" Column="22" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="193" Column="1" />
+      <File FileName="Assets\move.js" Line="5" Column="28" />
+      <File FileName="Assets\mazeStick.js" Line="56" Column="27" />
+      <File FileName="Assets\3Dstick.js" Line="103" Column="2" />
+      <File FileName="Assets\pre_level_stick.js" Line="137" Column="13" />
+      <File FileName="Assets\2Dstick.js" Line="46" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
